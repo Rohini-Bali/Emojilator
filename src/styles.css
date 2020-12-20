@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Langar&display=swap");
+body {
+  background-color: gray;
+  font-family: "Langar", cursive;
+  color: #63ff99;
+}
+
+h1,
+h4 {
+  font-family: "Langar", cursive;
+  color: black;
+}
