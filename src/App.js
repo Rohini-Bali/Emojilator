@@ -69,7 +69,7 @@ export default function App() {
           <span
             onClick={() => emojiClickHandler(emoji)}
             style={{
-              display: "inline",
+              display: "inline-block",
               fontSize: "2rem",
               padding: "1rem 1rem",
               cursor: "pointer"
